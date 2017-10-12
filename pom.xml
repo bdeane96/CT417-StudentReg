@@ -5,6 +5,7 @@
 	<groupId>software-eng</groupId>
 	<artifactId>assignment</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
+	<packaging>jar</packaging>
 
 	<dependencies>
 		<dependency>
